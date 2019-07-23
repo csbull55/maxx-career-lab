@@ -1,0 +1,25 @@
+.hello {
+  color: black;
+  display: inline-block;
+  float: right;
+  margin-top: 60px;
+  margin-right: 40px;
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+.title {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.jumbo {
+  /* height: auto;
+  width: auto;
+  max-width: 800px; */
+  max-height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
