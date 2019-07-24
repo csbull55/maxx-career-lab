@@ -35,6 +35,15 @@ padding: 4px;
   padding: 4px;
 }
 
+.imgtitle {
+    font-family: "Baskerville Italic";
+    font-size: 15px;
+}
+
+.imgtext {
+  color: #BB1F25;
+}
+
 .column img {
   max-height: 600px;
   max-width: 400px;
